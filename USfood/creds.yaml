@@ -1,0 +1,5 @@
+usfoodcon:
+  server: localhost
+  database: usfood
+  username: postgres
+  password: Trucker14
