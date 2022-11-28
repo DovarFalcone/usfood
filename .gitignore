@@ -1,0 +1,5 @@
+# Ignore credentials
+creds.yaml
+
+#ignore csv files
+*.csv
